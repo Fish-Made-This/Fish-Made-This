@@ -15,5 +15,5 @@
 <br />
 
 ## Stats
-<img align="left" alt="FishSt1ck" src="https://github-readme-stats.codestackr.vercel.app/api?username=Fish-Made-This&show_icons=true&hide_border=true" />
+<img align="left" alt="FishSt1ck" src="https://github-readme-stats.codestackr.vercel.app/api?username=Fish-Made-This&count_private=true&hide_title=true&show_icons=true&hide_border=true" />
 <br />
